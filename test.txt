@@ -1,5 +1,5 @@
 This is a new file
-Line from github
+Line from github (The force merge conflict from upstream master)
 Added second line
 Second line added on local
 This is the fifth line added from github acecript
